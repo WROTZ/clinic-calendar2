@@ -1,7 +1,7 @@
 {
   "name": "appointment-calendar-clinic",
   "version": "1.0.0",
-  "homepage": "https://WROTZ.github.io/clinic-calendar2",
+  "homepage": "https://wrotz.github.io/clinic-calendar2",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
